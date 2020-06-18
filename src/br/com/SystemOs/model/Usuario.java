@@ -68,5 +68,4 @@ public class Usuario {
         this.permissao = permissao;
     }
     
-    
 }
